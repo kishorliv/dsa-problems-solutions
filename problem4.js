@@ -21,3 +21,8 @@ function maxProfit(prices) {
 const prices = [7, 6, 4, 3, 1];
 const res = maxProfit(prices);
 console.log(res);
+
+// time complexity
+// O(n)
+// space complexity
+// O(1)
